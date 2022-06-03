@@ -1,3 +1,5 @@
+# Important: Some tests WILL fail since content of doggos has been changed.
+#
 Dogglers - Starter Code
 ==================================
 

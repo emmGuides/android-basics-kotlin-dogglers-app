@@ -4,8 +4,8 @@
         "source": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.dogglers.app-merged_res-29:/drawable_dog4.jpg.flat",
-        "source": "com.example.dogglers.app-main-31:/drawable/dog4.jpg"
+        "merged": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_dog1.jpg.flat",
+        "source": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\dog1.jpg"
     },
     {
         "merged": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\layout_vertical_horizontal_list_item.xml.flat",
@@ -16,12 +16,8 @@
         "source": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.dogglers.app-merged_res-29:/drawable_dog6.jpg.flat",
-        "source": "com.example.dogglers.app-main-31:/drawable/dog6.jpg"
-    },
-    {
-        "merged": "com.example.dogglers.app-merged_res-29:/drawable_dog2.jpg.flat",
-        "source": "com.example.dogglers.app-main-31:/drawable/dog2.jpg"
+        "merged": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_dog6.jpg.flat",
+        "source": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\dog6.jpg"
     },
     {
         "merged": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_nox.jpg.flat",
@@ -36,6 +32,18 @@
         "source": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\frankie.jpg"
     },
     {
+        "merged": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_dog4.jpg.flat",
+        "source": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\dog4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_dog7.jpg.flat",
+        "source": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\dog7.jpg"
+    },
+    {
+        "merged": "com.example.dogglers.app-merged_res-29:/layout_grid_list_item.xml.flat",
+        "source": "com.example.dogglers.app-main-31:/layout/grid_list_item.xml"
+    },
+    {
         "merged": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_tzeitel.jpg.flat",
         "source": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\tzeitel.jpg"
     },
@@ -48,12 +56,8 @@
         "source": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\layout\\activity_horizontal_list.xml"
     },
     {
-        "merged": "com.example.dogglers.app-merged_res-29:/drawable_dog3.jpg.flat",
-        "source": "com.example.dogglers.app-main-31:/drawable/dog3.jpg"
-    },
-    {
-        "merged": "com.example.dogglers.app-merged_res-29:/drawable_dog1.jpg.flat",
-        "source": "com.example.dogglers.app-main-31:/drawable/dog1.jpg"
+        "merged": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_dog2.jpg.flat",
+        "source": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\dog2.jpg"
     },
     {
         "merged": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\layout_activity_grid_list.xml.flat",
@@ -64,24 +68,20 @@
         "source": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.dogglers.app-merged_res-29:/drawable_dog7.jpg.flat",
-        "source": "com.example.dogglers.app-main-31:/drawable/dog7.jpg"
-    },
-    {
         "merged": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_bella.jpg.flat",
         "source": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\bella.jpg"
-    },
-    {
-        "merged": "com.example.dogglers.app-merged_res-29:/drawable_dog8.jpg.flat",
-        "source": "com.example.dogglers.app-main-31:/drawable/dog8.jpg"
     },
     {
         "merged": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_faye.jpg.flat",
         "source": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\faye.jpg"
     },
     {
-        "merged": "com.example.dogglers.app-merged_res-29:/drawable_dog5.jpg.flat",
-        "source": "com.example.dogglers.app-main-31:/drawable/dog5.jpg"
+        "merged": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_dog5.jpg.flat",
+        "source": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\dog5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_dog8.jpg.flat",
+        "source": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\dog8.jpg"
     },
     {
         "merged": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\layout_activity_vertical_list.xml.flat",
@@ -94,5 +94,9 @@
     {
         "merged": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_leroy.jpg.flat",
         "source": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\leroy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_dog3.jpg.flat",
+        "source": "C:\\Users\\Emmanuel Guides\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\dog3.jpg"
     }
 ]

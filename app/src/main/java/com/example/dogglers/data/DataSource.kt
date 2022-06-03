@@ -25,40 +25,52 @@ object DataSource {
 
     val dogs: List<Dog> = listOf(
         Dog(
-            R.drawable.tzeitel,
-            "Tzeitel",
-            "7",
-            "sunbathing"
+            R.drawable.dog1,
+            "Nala",
+            "3",
+            "Strolling in the Garden"
         ),
         Dog(
-            R.drawable.leroy,
-            "Leroy",
-            "4",
-            "sleeping in dangerous places"
+            R.drawable.dog2,
+            "Kali",
+            "1",
+            "Sunbathing"
         ),
         Dog(
-            R.drawable.frankie,
-            "Frankie",
+            R.drawable.dog3,
+            "Snow",
             "2",
-            "stealing socks"
+            "Playing in the snow"
         ),
         Dog(
-            R.drawable.nox,
-            "Nox",
-            "8",
-            "meeting new animals"
+            R.drawable.dog4,
+            "Jake",
+            "1",
+            "Surfing"
         ),
         Dog(
-            R.drawable.faye,
-            "Faye",
-            "8",
-            "Digging in the garden"
+            R.drawable.dog5,
+            "Oreo",
+            "1",
+            "Playing tennis ball"
         ),
         Dog(
-            R.drawable.bella,
-            "Bella",
-            "14",
-            "Chasing sea foam"
+            R.drawable.dog6,
+            "Rollo",
+            "4",
+            "Reading"
+        ),
+        Dog(
+            R.drawable.dog7,
+            "Chase",
+            "3",
+            "Playing Frisbee"
+        ),
+        Dog(
+            R.drawable.dog8,
+            "Finn",
+            "2",
+            "Swimming"
         )
     )
 }

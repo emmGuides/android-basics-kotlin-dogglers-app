@@ -1,0 +1,1120 @@
+06-03 23:47:17.192 12548 12590 I TestRunner: started: clicking_horizontal_list_button_displays_horizontal_list(com.example.dogglers.ButtonTests)
+06-03 23:47:17.196   865   865 D OppoExLayer: ~Layer() sequence=28479, name=ActivityRecord{bc0a2d1 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0@0xb4000073f0109000
+06-03 23:47:17.196   865   865 I BufferQueueConsumer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0](id:36100001312,api:0,p:-1,c:865) disconnect()
+06-03 23:47:17.196   865   865 I BufferQueue: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0](this:0xb4000074068dfe58,id:4882,api:1,p:-1,c:-1) onDestructor()
+06-03 23:47:17.197   865   865 D OppoExLayer: ~Layer() sequence=28476, name=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0@0xb4000073f5a33000
+06-03 23:47:17.197   865   865 D OppoExLayer: ~Layer() sequence=28475, name=a9684dc com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0@0xb4000073f5845000
+06-03 23:47:17.198  1472  6507 I InputDispatcher: Window went away: com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0
+06-03 23:47:17.200   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.202 12548 12590 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-03 23:47:17.212 12548 12590 E Parcel  : Reading a NULL string not supported here.
+06-03 23:47:17.212   865   865 D OppoExLayer: ~Layer() sequence=28459, name=Task=2532#0@0xb4000073f5827000
+06-03 23:47:17.212   865   865 D OppoExLayer: ~Layer() sequence=28472, name=ActivityRecord{df10ab9 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0@0xb4000073f5834000
+06-03 23:47:17.215  1472  3042 I mtkpower_client: perf_lock_rel, hdl:66309, tid:3042
+06-03 23:47:17.215  1472  3042 I mtkpower_client: perf_lock_acq, hdl:66309, dur:0, num:12, tid:3042
+06-03 23:47:17.215   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.215   841   903 I libPowerHal: [perfLockRel] hdl:66309, idx:0
+06-03 23:47:17.215   841   903 I libPowerHal: [PD] scn:0 hdl:66309 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.216   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+06-03 23:47:17.216   841   903 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+06-03 23:47:17.216   841   903 I libPowerHal: [PD] system_server update cmd:10000100 param:0
+06-03 23:47:17.216   841   903 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+06-03 23:47:17.217  1472  3042 I mtkpower_client: ret_hdl:66310
+06-03 23:47:17.217   841   903 I libPowerHal: [perfLockAcq] idx:0 hdl:66310 hint:-1 pid:1472 duration:0 => ret_hdl:66310
+06-03 23:47:17.217   841   903 I libPowerHal: [PE] scn:0 hdl:66310 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.217   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2203000 -1
+06-03 23:47:17.217   841   903 I libPowerHal: [PE] system_server update cmd:1410000, param:1
+06-03 23:47:17.217   841   903 I libPowerHal: [PE] system_server update cmd:10000100, param:0
+06-03 23:47:17.217   841   903 I libPowerHal: [PE] system_server update cmd:1c3c000, param:0
+06-03 23:47:17.217   865   938 D DispPerfService: get hint proc=, idx=0 none
+06-03 23:47:17.218  1472  3097 W Bitmap  : Called getWidth() on a recycle()'d bitmap! This is undefined behavior!
+06-03 23:47:17.218  1472  3097 W Bitmap  : Called getHeight() on a recycle()'d bitmap! This is undefined behavior!
+06-03 23:47:17.220   865   938 D DispPerfService: get hint proc=ActivityRecord{ca76396 u0 com.example.dogglers, idx=0 none
+06-03 23:47:17.223   841   870 I mtkpower@impl: [setMode] type:5, enabled:1
+06-03 23:47:17.228  1107 11962 E MMListParser: open file /proc/1472/cmdline err 13
+06-03 23:47:17.227  1107  1107 W Binder:1107_5: type=1400 audit(0.0:203674): avc: denied { search } for name="1472" dev="proc" ino=12019 scontext=u:r:atlasservice:s0 tcontext=u:r:system_server:s0 tclass=dir permissive=0
+06-03 23:47:17.229  1472  3042 I mtkpower_client: perf_lock_rel, hdl:66310, tid:3042
+06-03 23:47:17.229  1472  3042 I mtkpower_client: perf_lock_acq, hdl:66310, dur:0, num:12, tid:3042
+06-03 23:47:17.229  1472  6507 D OppoDisplayPolicy: com.android.systemui, change system app cutoutMode: color always
+06-03 23:47:17.229   841   903 I libPowerHal: [perfLockRel] hdl:66310, idx:0
+06-03 23:47:17.229   841   903 I libPowerHal: [PD] scn:0 hdl:66310 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.229  1472  3097 D OplusSkImageProcessing: INFO:0x0,quality 95
+06-03 23:47:17.229  1472  3097 E OplusSkImageProcessing: not in image processing list
+06-03 23:47:17.229  1472  3097 D OplusSkImageProcessing: support_flag: 0,new_quality: 95
+06-03 23:47:17.229  1472  3097 D system_server: ##Make: options.fQuality:95,quality:95,encoderMgr->imageprocessing_flag:0
+06-03 23:47:17.229  1472  3097 D system_server: Resolution: 540 x 1200; FLAG:0
+06-03 23:47:17.229  1472  3097 D system_server: Resolution: 540 x 1200;
+06-03 23:47:17.229  1472  3097 D system_server: support: 0
+06-03 23:47:17.229   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+06-03 23:47:17.229   841   903 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+06-03 23:47:17.229   841   903 I libPowerHal: [PD] system_server update cmd:10000100 param:0
+06-03 23:47:17.230   841   903 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+06-03 23:47:17.231   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.231  1472  3042 I mtkpower_client: ret_hdl:66311
+06-03 23:47:17.231   841   903 I libPowerHal: [perfLockAcq] idx:0 hdl:66311 hint:-1 pid:1472 duration:0 => ret_hdl:66311
+06-03 23:47:17.231   841   903 I libPowerHal: [PE] scn:0 hdl:66311 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.231   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2203000 -1
+06-03 23:47:17.231   841   903 I libPowerHal: [PE] system_server update cmd:1410000, param:1
+06-03 23:47:17.231   841   903 I libPowerHal: [PE] system_server update cmd:10000100, param:0
+06-03 23:47:17.232   841   903 I libPowerHal: [PE] system_server update cmd:1c3c000, param:0
+06-03 23:47:17.237  1472  5312 V SensorManager: setScreenShotDisableImpl
+06-03 23:47:17.237  1472  5312 D SensorService: debug_oplusGeminiProximity setScreenShotDisable in SensorService
+06-03 23:47:17.237  1472  3042 I mtkpower_client: perf_lock_rel, hdl:66311, tid:3042
+06-03 23:47:17.237  1472  5312 I ColorHansManager : ColorHansManager : resume pkg: com.example.dogglers, uid:10242, prev pkg: com.teslacoilsw.launcher, prev uid: 10254
+06-03 23:47:17.237  1472  3042 I mtkpower_client: perf_lock_acq, hdl:66311, dur:0, num:12, tid:3042
+06-03 23:47:17.237  1472  3821 I ColorHansManager : enter fastfreezer
+06-03 23:47:17.238   841   903 I libPowerHal: [perfLockRel] hdl:66311, idx:0
+06-03 23:47:17.238   841   903 I libPowerHal: [PD] scn:0 hdl:66311 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.238  1472  3821 W OplusLocationManagerService: NavigateMode doesn't match LocationMode
+06-03 23:47:17.238  1472  3821 D ColorCommonListManager: uid:10259 is Protected by traffic because of downloading
+06-03 23:47:17.238   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+06-03 23:47:17.238   841   903 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+06-03 23:47:17.238   841   903 I libPowerHal: [PD] system_server update cmd:10000100 param:0
+06-03 23:47:17.238   841   903 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+06-03 23:47:17.239  1472  3042 I mtkpower_client: ret_hdl:66312
+06-03 23:47:17.239   841   903 I libPowerHal: [perfLockAcq] idx:0 hdl:66312 hint:-1 pid:1472 duration:0 => ret_hdl:66312
+06-03 23:47:17.239   841   903 I libPowerHal: [PE] scn:0 hdl:66312 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.239   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2203000 -1
+06-03 23:47:17.239   841   903 I libPowerHal: [PE] system_server update cmd:1410000, param:1
+06-03 23:47:17.239   841   903 I libPowerHal: [PE] system_server update cmd:10000100, param:0
+06-03 23:47:17.239   841   903 I libPowerHal: [PE] system_server update cmd:1c3c000, param:0
+06-03 23:47:17.240  1472  3821 I ColorHansManager : freeze uid: 10279 package: com.myfitnesspal.android reason: fastfreezer|10242 scene: FastFreezerScene
+06-03 23:47:17.241  1472  5312 I InputDispatcher: setFocusedApplication displayId=0 <invalid>
+06-03 23:47:17.241  1472  3991 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppExit , info = OplusAppExitInfo = {  targetName = com.teslacoilsw.launcher hasResumingActivity = true resumingPackageName = com.example.dogglers resumingActivityName = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity resumingWindowMode = 1 isResumingMultiApp = false isResumingFirstStart = false extension = Bundle[{taskId=2533, uid=10242}]}
+06-03 23:47:17.241  1472  3042 I mtkpower_client: perf_lock_rel, hdl:66312, tid:3042
+06-03 23:47:17.241  1472  3042 I mtkpower_client: perf_lock_acq, hdl:66312, dur:0, num:12, tid:3042
+06-03 23:47:17.241  1472  3821 I ColorHansManager : freeze uid: 10290 package: com.komoe.fsgp reason: fastfreezer|10242 scene: FastFreezerScene
+06-03 23:47:17.242  1472  9793 D DCSEX-AppLaunchEventRecorder: onAppSwitch from = com.teslacoilsw.launcher to = com.example.dogglers
+06-03 23:47:17.242   841   903 I libPowerHal: [perfNotifyAppState] foreground:com.example.dogglers, pid:12548, uid:10242
+06-03 23:47:17.242   841   903 E UxUtility: notifyAppState error = NULL
+06-03 23:47:17.242   841   903 I TouchUtility: notifyAppState error = NULL
+06-03 23:47:17.242   841   869 I mtkpower@impl: [notifyAppState] pc:0, com.teslacoilsw.launcher => com.example.dogglers
+06-03 23:47:17.242   841   869 I mtkpower@impl: [check_work_req] i:0, msg:1 hdl:66312, wait
+06-03 23:47:17.242  4119  4363 W OppoGuardElf: ThermalControlUtils: mForegroundPkg=com.example.dogglers
+06-03 23:47:17.243   841   903 I libPowerHal: [perfLockRel] hdl:66312, idx:0
+06-03 23:47:17.243   841   903 I libPowerHal: [PD] scn:0 hdl:66312 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.243  1472  5312 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+06-03 23:47:17.244  1472  3991 I ColorResourcePreloadManager: resume pkg: com.example.dogglers, uid:10242, prev pkg: com.teslacoilsw.launcher, prev uid: 10254
+06-03 23:47:17.245   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+06-03 23:47:17.245   841   903 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+06-03 23:47:17.245  1472  3991 E Process : get_ion_cache_memory: Unable to open /d/ion/system_stats
+06-03 23:47:17.245 21514 21547 I [0]DCS-BackgroundAppData: sendAppBgEvent: has no pkgName=com.example.dogglers
+06-03 23:47:17.245   841   903 I libPowerHal: [PD] system_server update cmd:10000100 param:0
+06-03 23:47:17.245   841   903 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+06-03 23:47:17.245  1472  3042 I mtkpower_client: ret_hdl:66313
+06-03 23:47:17.246   841   903 I libPowerHal: [perfLockAcq] idx:0 hdl:66313 hint:-1 pid:1472 duration:0 => ret_hdl:66313
+06-03 23:47:17.246   841   903 I libPowerHal: [PE] scn:0 hdl:66313 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.246   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2203000 -1
+06-03 23:47:17.246   841   903 I libPowerHal: [PE] system_server update cmd:1410000, param:1
+06-03 23:47:17.246   841   903 I libPowerHal: [PE] system_server update cmd:10000100, param:0
+06-03 23:47:17.246   841   903 I libPowerHal: [PE] system_server update cmd:1c3c000, param:0
+06-03 23:47:17.247  1472  3991 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppEnter , info = OplusAppEnterInfo = {  windowMode = 1 targetName = com.example.dogglers multiApp = false firstStart = false launchedFromPackage = com.example.dogglers intent = Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10242 } extension = Bundle[{taskId=2533, uid=10242}]}
+06-03 23:47:17.248   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.248 12548 12564 W System  : A resource failed to call release.
+06-03 23:47:17.250  4450  4468 D ZoomAppController: ignore onAppEnter: Invalid cvActionFlag = 0
+06-03 23:47:17.251  1472  3042 I mtkpower_client: perf_lock_rel, hdl:66313, tid:3042
+06-03 23:47:17.251  1472  3042 I mtkpower_client: perf_lock_acq, hdl:66313, dur:0, num:12, tid:3042
+06-03 23:47:17.251 12548 12635 E libEGL  : Invalid file path for libcolorx-loader.so
+06-03 23:47:17.251 12548 12635 D libMEOW : applied 0 plugin for [com.example.dogglers].
+06-03 23:47:17.252   841   903 I libPowerHal: [perfLockRel] hdl:66313, idx:0
+06-03 23:47:17.252   841   903 I libPowerHal: [PD] scn:0 hdl:66313 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.253   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+06-03 23:47:17.253   841   903 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+06-03 23:47:17.253   841   903 I libPowerHal: [PD] system_server update cmd:10000100 param:0
+06-03 23:47:17.253   841   903 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+06-03 23:47:17.253  1472  3042 I mtkpower_client: ret_hdl:66314
+06-03 23:47:17.253   841   903 I libPowerHal: [perfLockAcq] idx:0 hdl:66314 hint:-1 pid:1472 duration:0 => ret_hdl:66314
+06-03 23:47:17.253   841   903 I libPowerHal: [PE] scn:0 hdl:66314 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.253   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2203000 -1
+06-03 23:47:17.253   841   903 I libPowerHal: [PE] system_server update cmd:1410000, param:1
+06-03 23:47:17.254   841   903 I libPowerHal: [PE] system_server update cmd:10000100, param:0
+06-03 23:47:17.254   841   903 I libPowerHal: [PE] system_server update cmd:1c3c000, param:0
+06-03 23:47:17.256   865   938 I SurfaceFlinger: [SF client] NEW(0xb4000073f02e7f40) for (1472:system_server)
+06-03 23:47:17.257 12548 12548 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d288869 in: PRE_ON_CREATE
+06-03 23:47:17.258 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10242 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d288869
+06-03 23:47:17.259  1472  1528 D ViewRootImpl[dogglers]: hardware acceleration = false , fakeHwAccelerated = true, sRendererDisabled = false, forceHwAccelerated = false, sSystemRendererDisabled = false
+06-03 23:47:17.259  1472  1528 D OppoDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+06-03 23:47:17.260  1472  3821 I ColorHansManager : freeze uid: 10307 package: com.lenovo.anyshare.gps reason: fastfreezer|10242 scene: FastFreezerScene
+06-03 23:47:17.260  1472  3821 I ColorHansManager : freeze uid: 10220 package: com.nearme.gamecenter reason: fastfreezer|10242 scene: FastFreezerScene
+06-03 23:47:17.261   865   938 D DispPerfService: get hint proc=, idx=0 none
+06-03 23:47:17.262   865   865 D OppoExLayer: ~Layer() sequence=28471, name=Surface(name=8cf94b9 InputMethod)/@0xf89605f - animation-leash#0@0xb4000073f00ff000
+06-03 23:47:17.263  1472  1528 E libEGL  : Invalid file path for libcolorx-loader.so
+06-03 23:47:17.264  1472  1528 I chatty  : uid=1000(system) android.anim identical 4 lines
+06-03 23:47:17.264  1472  1528 E libEGL  : Invalid file path for libcolorx-loader.so
+06-03 23:47:17.264  1472  1528 I InputTransport: Create ARC handle: 0xb400007792b62ca0
+06-03 23:47:17.265   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.265  1472  3821 I ColorHansManager : freeze uid: 10236 package: com.twitter.android reason: fastfreezer|10242 scene: FastFreezerScene
+06-03 23:47:17.269  1472  1528 D OppoDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+06-03 23:47:17.271  1472  3821 I ColorHansManager : freeze uid: 10238 package: com.facebook.katana reason: fastfreezer|10242 scene: FastFreezerScene
+06-03 23:47:17.271   865  1818 D DispPerfService: get hint proc=, idx=0 none
+06-03 23:47:17.271   865  1818 I BufferQueueConsumer: [](id:36100001315,api:0,p:-1,c:865) connect(): controlledByApp=false
+06-03 23:47:17.272   865  1818 I BufferQueue: [unnamed-865-4885](this:0xb4000073f5ab3258,id:4885,api:0,p:-1,c:-1) BufferQueue core=(865:/system/bin/surfaceflinger)
+06-03 23:47:17.275  1472  1528 D Surface : lockCanvas
+06-03 23:47:17.275  1472  1525 D OplusAppBwCore: onUidImportance: 10242, 100
+06-03 23:47:17.276   865  1818 I BufferQueueProducer: [Splash Screen com.example.dogglers#0](id:36100001315,api:2,p:1472,c:865) connect(): api=2 producerControlledByApp=false
+06-03 23:47:17.277  1472  3936 D AS.AudioService: getParameters() keyValuePairs:OPLUS_AUDIO_GET_FOCUS_STACK
+06-03 23:47:17.277 21514 21547 I [0]DCS-StrategyManager: isNeedUpload: cache, appID: 20120, logTag: ORMS, eventID: ABNORMAL
+06-03 23:47:17.279  1472  3936 I InputDispatcher: Focus left window: Window{47402ca u0 com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaLauncher} in display 0
+06-03 23:47:17.279  1472  3936 I InputDispatcher: Window went away: Window{47402ca u0 com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaLauncher}
+06-03 23:47:17.280   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.280  4119  4363 W OppoGuardElf: ThermalControllHandler: tempLevel=5,userMode=2,gameUserMode=-1,appType=-1,envTempType=0,appStates=[]
+06-03 23:47:17.283  4119  4363 W OppoGuardElf: ThermalControllerCenter: mSafetyState=10000
+06-03 23:47:17.285   865   938 D DispPerfService: onframeavailable pid=1472, slot=0, seq=28494, name=system_server:Splash Screen com.example.dogglers#0
+06-03 23:47:17.287  4119  4363 W OppoGuardElf: ThermalControlUtils: mForegroundPkg=com.example.dogglers
+06-03 23:47:17.287  4119  4363 W OppoGuardElf: ThermalControllHandler: tempGear=5,configItemName=common_config
+06-03 23:47:17.287  4119  6494 W OppoGuardElf: ThermalControllHandler: MSG_THERMAL_CONTROL_CATEGORY_CHANGED
+06-03 23:47:17.291 12548 12548 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d288869 in: CREATED
+06-03 23:47:17.292 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10242 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d288869
+06-03 23:47:17.295  3621  3621 I LWPCore_GLWallpaperService: engine paused
+06-03 23:47:17.296  1472  3936 I InputDispatcher: Window went away: Splash Screen com.example.dogglers#0
+06-03 23:47:17.296   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.296   865   938 D DispPerfService: get hint proc=Surface(name=3c9c3ca StatusBar), idx=0 none
+06-03 23:47:17.297   865   937 I BufferQueueProducer: [com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaLauncher#0](id:36100001314,api:1,p:31785,c:865) disconnect(): api=1
+06-03 23:47:17.297   865   938 D DispPerfService: get hint proc=Surface(name=8790d11 NavigationBar0), idx=0 none
+06-03 23:47:17.307   865   937 I BufferQueueProducer: [com.coloros.lwpcore.service.daynight.DayNightWallpaperService#0](id:36100000003,api:1,p:3621,c:865) disconnect(): api=1
+06-03 23:47:17.312 12548 12548 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d288869 in: STARTED
+06-03 23:47:17.312 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10242 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d288869
+06-03 23:47:17.315   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.316  1472  3042 I mtkpower_client: perf_lock_rel, hdl:66314, tid:3042
+06-03 23:47:17.316  1472  3042 I mtkpower_client: perf_lock_acq, hdl:66314, dur:0, num:12, tid:3042
+06-03 23:47:17.316   841   903 I libPowerHal: [perfLockRel] hdl:66314, idx:0
+06-03 23:47:17.316   841   903 I libPowerHal: [PD] scn:0 hdl:66314 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.317   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+06-03 23:47:17.317   841   903 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+06-03 23:47:17.317   841   903 I libPowerHal: [PD] system_server update cmd:10000100 param:0
+06-03 23:47:17.317   841   903 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+06-03 23:47:17.317   865   937 D DispPerfService: get hint proc=ActivityRecord{595e156 u0 com.example.dogglers, idx=0 none
+06-03 23:47:17.317  1472  3042 I mtkpower_client: ret_hdl:66315
+06-03 23:47:17.318   841   903 I libPowerHal: [perfLockAcq] idx:0 hdl:66315 hint:-1 pid:1472 duration:0 => ret_hdl:66315
+06-03 23:47:17.318   841   903 I libPowerHal: [PE] scn:0 hdl:66315 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.318   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2203000 -1
+06-03 23:47:17.318   841   903 I libPowerHal: [PE] system_server update cmd:1410000, param:1
+06-03 23:47:17.318   841   903 I libPowerHal: [PE] system_server update cmd:10000100, param:0
+06-03 23:47:17.318   841   903 I libPowerHal: [PE] system_server update cmd:1c3c000, param:0
+06-03 23:47:17.319   841   870 I mtkpower@impl: [setMode] type:5, enabled:1
+06-03 23:47:17.329 12548 12548 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d288869 in: RESUMED
+06-03 23:47:17.330 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10242 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d288869
+06-03 23:47:17.331   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.336  1472  3826 E Process : get_ion_cache_memory: Unable to open /d/ion/system_stats
+06-03 23:47:17.336 12548 12548 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d288869 in: PAUSED
+06-03 23:47:17.336 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10242 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d288869
+06-03 23:47:17.338  1472  1483 W System  : A resource failed to call release.
+06-03 23:47:17.338  1472  1483 I chatty  : uid=1000(system) FinalizerDaemon identical 2 lines
+06-03 23:47:17.338  1472  1483 W System  : A resource failed to call release.
+06-03 23:47:17.341  1472  3936 I InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{595e156 u0 com.example.dogglers/.MainActivity t2533}
+06-03 23:47:17.341   841   869 I mtkpower@impl: [notifyAppState] act androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity => com.example.dogglers.MainActivity
+06-03 23:47:17.345   865   865 D OppoExLayer: ~Layer() sequence=28487, name=Surface(name=3c9c3ca StatusBar)/@0xba48ab7 - animation-leash#1@0xb4000073f5473000
+06-03 23:47:17.345   865   865 D OppoExLayer: ~Layer() sequence=28488, name=Surface(name=8790d11 NavigationBar0)/@0x7dd0224 - animation-leash#1@0xb4000073f5483000
+06-03 23:47:17.345   865   865 D OppoExLayer: ~Layer() sequence=28481, name=Surface(name=8cf94b9 InputMethod)/@0xf89605f - animation-leash#0@0xb40000740635a000
+06-03 23:47:17.346   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.348  1472  3042 I mtkpower_client: perf_lock_rel, hdl:66315, tid:3042
+06-03 23:47:17.348 12548 12636 E libEGL  : Invalid file path for libcolorx-loader.so
+06-03 23:47:17.348 12548 12636 D libMEOW : applied 0 plugin for [com.example.dogglers].
+06-03 23:47:17.348  1472  3042 I mtkpower_client: perf_lock_acq, hdl:66315, dur:0, num:12, tid:3042
+06-03 23:47:17.348   841   903 I libPowerHal: [perfLockRel] hdl:66315, idx:0
+06-03 23:47:17.348   841   903 I libPowerHal: [PD] scn:0 hdl:66315 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.348   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+06-03 23:47:17.348   841   903 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+06-03 23:47:17.348   841   903 I libPowerHal: [PD] system_server update cmd:10000100 param:0
+06-03 23:47:17.348   841   903 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+06-03 23:47:17.349  1472  3042 I mtkpower_client: ret_hdl:66316
+06-03 23:47:17.349   841   903 I libPowerHal: [perfLockAcq] idx:0 hdl:66316 hint:-1 pid:1472 duration:0 => ret_hdl:66316
+06-03 23:47:17.349   841   903 I libPowerHal: [PE] scn:0 hdl:66316 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.349   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2203000 -1
+06-03 23:47:17.349   841   903 I libPowerHal: [PE] system_server update cmd:1410000, param:1
+06-03 23:47:17.349   841   903 I libPowerHal: [PE] system_server update cmd:10000100, param:0
+06-03 23:47:17.349   841   903 I libPowerHal: [PE] system_server update cmd:1c3c000, param:0
+06-03 23:47:17.350  1472  1528 D Surface : lockCanvas
+06-03 23:47:17.351  8485  8485 V PhoneWindow: DecorView setVisiblity: visibility = 8, Parent = android.view.ViewRootImpl@c231d3d, this = DecorView@80a3932[InputMethod]
+06-03 23:47:17.351  8485  8485 V PhoneWindow: DecorView setVisiblity: visibility = 8, Parent = android.view.ViewRootImpl@c231d3d, this = DecorView@80a3932[InputMethod]
+06-03 23:47:17.354  4602  4614 E oiface  : packageSwitch pkg com.example.dogglers, enter
+06-03 23:47:17.354  4602  4614 E oiface  : current package is com.example.dogglers and pid is 12548
+06-03 23:47:17.358 31785 31785 V PhoneWindow: DecorView setVisiblity: visibility = 4, Parent = android.view.ViewRootImpl@4afeb73, this = DecorView@c70c5c4[NovaLauncher]
+06-03 23:47:17.360  1472  1525 D OplusAppBwCore: onUidImportance: 10254, 400
+06-03 23:47:17.361 12548 12548 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@db9fbaa in: PRE_ON_CREATE
+06-03 23:47:17.362 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-03 23:47:17.363   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.364  1472  1524 D LocationManagerService: request from uid 10254 is now background
+06-03 23:47:17.368  1472  1524 I chatty  : uid=1000(system) android.fg identical 192 lines
+06-03 23:47:17.368  1472  1524 D LocationManagerService: request from uid 10254 is now background
+06-03 23:47:17.368  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.368  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.368  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.368  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.368  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.368  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.369  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.369  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.369  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.369  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.369  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.369  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.369  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.369  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.369  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.369  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.369  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.369  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.369  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.369  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.369  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.369  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.369  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.369  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.369  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.369  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.369  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.369  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.369  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.369  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.369  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.369  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.369  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.370  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.370  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.370  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.370  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.370  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.370  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.370  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.370  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.370  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.370  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.370  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.370  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.370  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.370  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.370  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.370  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.370  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.370  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.370  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.370  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.370  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.370  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.370  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.370  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.370  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.370  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.370  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.370  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.370  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.370  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.371  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.371  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.371  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.371  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.371  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.371  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.371  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.371  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.371  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.371  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.371  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.371  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.371  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.371  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.371  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.371  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.371  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.371  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.371  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.371  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.371  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.371  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.371  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.371  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.371  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.371  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.371  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.372  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.372  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.372  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.372  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.372  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.372  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.372  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.372  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.372  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.372  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.372  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.372  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.372  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.372  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.372  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.372  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.372  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.372  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.372  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.372  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.372  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.372  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.372  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.372  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.372  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.372  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.372  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.372  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.372  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.372  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.372  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.372  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.372  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.372  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.372  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.372  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.373  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.373  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.374  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.374  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.375  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.375  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.376  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.376  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.377  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.377  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.377  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.377  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.377  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.377  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.377  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.377  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.377  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.377  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.377  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.377  1472  1524 D OplusGnssWhiteListProxy: on get OplusGnssWhiteListProxy!
+06-03 23:47:17.377  1472  1524 D LocationManagerService: Skip applyRequirementsLocked, provider:  provider manager: gps provider isEnabled(): false isBatterySaverDisabling: false isSettingsExempt(record): false record: UpdateRecord[gps 31785/com.teslacoilsw.launcher (background) Request[ACCURACY_FINE gps interval=0 fastestInterval=0 expireIn=+30s0ms num=1] null]
+06-03 23:47:17.378   865   865 I BufferQueueConsumer: [com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaLauncher#0](id:36100001314,api:0,p:-1,c:865) disconnect()
+06-03 23:47:17.378   865   865 I BufferQueue: [com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaLauncher#0](this:0xb400007406346a58,id:4884,api:1,p:-1,c:-1) onDestructor()
+06-03 23:47:17.378   865   865 D OppoExLayer: ~Layer() sequence=28486, name=com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaLauncher#0@0xb4000073f01ee000
+06-03 23:47:17.379  1472  5312 I InputDispatcher: Window went away: com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaLauncher#0
+06-03 23:47:17.380   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.383  4602  4612 E oiface  : Average freq 2107217 for 0s.
+06-03 23:47:17.383  4602  4612 E oiface  : Average freq 1913043 for 0s.
+06-03 23:47:17.384  4602  4612 E oiface  : get gpu freq table failed
+06-03 23:47:17.387  4602  4612 E oiface  : client  not found, skipped
+06-03 23:47:17.387  4602  4612 D oiface  : forground package is com.example.dogglers
+06-03 23:47:17.395   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.402  4602  4612 E oiface  : get gpu freq table failed
+06-03 23:47:17.408  1156  1156 D AALLightSensor: oldLux=16 [SA:16 LA:14] newLux=16 (oriLux: 17)
+06-03 23:47:17.411 12548 12548 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@db9fbaa in: CREATED
+06-03 23:47:17.411 12548 12548 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.MainActivity@db9fbaa
+06-03 23:47:17.413 12548 12548 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@db9fbaa in: STARTED
+06-03 23:47:17.413 12548 12548 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.MainActivity@db9fbaa
+06-03 23:47:17.415 12548 12548 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@db9fbaa in: RESUMED
+06-03 23:47:17.415 12548 12548 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.MainActivity@db9fbaa
+06-03 23:47:17.416 12548 12548 V PhoneWindow: DecorView setVisiblity: visibility = 4, Parent = null, this = DecorView@df3c188[]
+06-03 23:47:17.416   865   937 I SurfaceFlinger: [SF client] NEW(0xb4000073f0256640) for (12548:com.example.dogglers)
+06-03 23:47:17.420 12548 12590 W xample.doggler: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (greylist, reflection, allowed)
+06-03 23:47:17.420 12548 12548 D ViewRootImpl[MainActivity]: hardware acceleration = true , fakeHwAccelerated = false, sRendererDisabled = false, forceHwAccelerated = false, sSystemRendererDisabled = false
+06-03 23:47:17.421  1472  3936 D OppoDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+06-03 23:47:17.422   865  1393 D DispPerfService: get hint proc=8a2fc4d com.example.dogglers, idx=0 none
+06-03 23:47:17.423 12548 12548 E libEGL  : Invalid file path for libcolorx-loader.so
+06-03 23:47:17.424 12548 12548 I chatty  : uid=10242(com.example.dogglers) identical 4 lines
+06-03 23:47:17.424 12548 12548 E libEGL  : Invalid file path for libcolorx-loader.so
+06-03 23:47:17.424 12548 12548 I InputTransport: Create ARC handle: 0xb40000783c9345a0
+06-03 23:47:17.424 12548 12548 V PhoneWindow: DecorView setVisiblity: visibility = 0, Parent = android.view.ViewRootImpl@5e3dd07, this = DecorView@df3c188[MainActivity]
+06-03 23:47:17.426 12548 12548 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d288869 in: STOPPED
+06-03 23:47:17.426 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10242 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d288869
+06-03 23:47:17.428   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.437  1472  3936 D OppoDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+06-03 23:47:17.438   865  1393 D DispPerfService: get hint proc=com.example.dogglers, idx=0 none
+06-03 23:47:17.438   865  1393 I BufferQueueConsumer: [](id:36100001316,api:0,p:-1,c:865) connect(): controlledByApp=false
+06-03 23:47:17.438   865  1393 I BufferQueue: [unnamed-865-4886](this:0xb400007406918658,id:4886,api:0,p:-1,c:-1) BufferQueue core=(865:/system/bin/surfaceflinger)
+06-03 23:47:17.440   865  1393 D DispPerfService: get hint proc=Surface(name=3c9c3ca StatusBar), idx=0 none
+06-03 23:47:17.441   865  1393 D DispPerfService: get hint proc=Surface(name=8790d11 NavigationBar0), idx=0 none
+06-03 23:47:17.442  1472  3936 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+06-03 23:47:17.446   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.446   865  1393 I BufferQueueProducer: [com.example.dogglers/com.example.dogglers.MainActivity#0](id:36100001316,api:1,p:12548,c:865) connect(): api=1 producerControlledByApp=false
+06-03 23:47:17.460   865   865 D OppoExLayer: ~Layer() sequence=28495, name=Surface(name=3c9c3ca StatusBar)/@0xba48ab7 - animation-leash#0@0xb4000073f546c000
+06-03 23:47:17.460   865   865 D OppoExLayer: ~Layer() sequence=28496, name=Surface(name=8790d11 NavigationBar0)/@0x7dd0224 - animation-leash#0@0xb4000073f0954000
+06-03 23:47:17.461  1472  5312 I InputDispatcher: Window went away: com.example.dogglers/com.example.dogglers.MainActivity#0
+06-03 23:47:17.461   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.463   865   937 D DispPerfService: onframeavailable pid=12548, slot=4, seq=28499, name=com.example.dogglers:com.example.dogglers/com.example.dogglers.MainActivity#0
+06-03 23:47:17.467  1472  3821 I ColorHansManager : unfreeze uid: 10220 package: com.nearme.gamecenter reason: F-direct scene: FastFreezerScene
+06-03 23:47:17.467  1472  1537 D ArtManagerInternalImpl: /data/misc/iorapd/com.example.dogglers/1/com.example.dogglers.MainActivity/compiled_traces/compiled_trace.pb doesn't exist
+06-03 23:47:17.468  1472  3821 I ColorHansManager : unfreeze uid: 10236 package: com.twitter.android reason: F-direct scene: FastFreezerScene
+06-03 23:47:17.468  1472  1537 I ActivityTaskManager: Displayed com.example.dogglers/.MainActivity: +253ms
+06-03 23:47:17.468  1472  3821 I ColorHansManager : unfreeze uid: 10238 package: com.facebook.katana reason: F-direct scene: FastFreezerScene
+06-03 23:47:17.469  1472  1528 D View    : [Warning] assignParent to null: this = DecorView@2c65582[dogglers]
+06-03 23:47:17.469   865   937 I BufferQueueProducer: [Splash Screen com.example.dogglers#0](id:36100001315,api:2,p:1472,c:865) disconnect(): api=2
+06-03 23:47:17.470   865   937 D DispPerfService: get hint proc=Surface(name=af77220 Splash Screen com.example.dogglers), idx=0 none
+06-03 23:47:17.470  1472  3821 I ColorHansManager : unfreeze uid: 10307 package: com.lenovo.anyshare.gps reason: F-direct scene: FastFreezerScene
+06-03 23:47:17.471  1472  3821 I ColorHansManager : unfreeze uid: 10290 package: com.komoe.fsgp reason: F-direct scene: FastFreezerScene
+06-03 23:47:17.472  1472  1528 I InputTransport: Destroy ARC handle: 0xb400007792b62ca0
+06-03 23:47:17.472  1472  3821 I ColorHansManager : unfreeze uid: 10279 package: com.myfitnesspal.android reason: F-direct scene: FastFreezerScene
+06-03 23:47:17.473  1472  3821 I ColorHansManager : exit fastfreezer, reason:F-direct
+06-03 23:47:17.474  1472  3822 W OplusLocationManagerService: NavigateMode doesn't match LocationMode
+06-03 23:47:17.474  1472  3822 I ColorHansManager : stateRToFFreeze--imporant case: pkgName: com.myfitnesspal.android, reason: lastResumeProtect
+06-03 23:47:17.474  1472  3822 W OplusLocationManagerService: NavigateMode doesn't match LocationMode
+06-03 23:47:17.474  1472  3822 I ColorHansManager : stateRToFFreeze--imporant case: pkgName: com.komoe.fsgp, reason: lastResumeProtect
+06-03 23:47:17.474  1472  3822 W OplusLocationManagerService: NavigateMode doesn't match LocationMode
+06-03 23:47:17.474  1472  3822 I ColorHansManager : stateRToFFreeze--imporant case: pkgName: com.lenovo.anyshare.gps, reason: lastResumeProtect
+06-03 23:47:17.478  1472  5312 I InputDispatcher: Focus entered window: Window{8a2fc4d u0 com.example.dogglers/com.example.dogglers.MainActivity} in display 0
+06-03 23:47:17.478   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.485  1472  5312 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.dogglers
+06-03 23:47:17.485  1472  5312 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false  isExist=true )
+06-03 23:47:17.487   865   937 D DispPerfService: get hint proc=Surface(name=8cf94b9 InputMethod), idx=0 none
+06-03 23:47:17.488  8485  8485 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+06-03 23:47:17.488  8485  8485 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+06-03 23:47:17.489  8485  8485 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+06-03 23:47:17.489  8485  8485 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+06-03 23:47:17.494  1472  6507 I InputDispatcher: Window went away: Window{af77220 u0 Splash Screen com.example.dogglers}
+06-03 23:47:17.495   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.496  1472  6507 D OppoDisplayPolicy: com.android.systemui, change system app cutoutMode: color always
+06-03 23:47:17.498 12548 12548 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230947/com.example.dogglers:id/horizontal_btn>
+06-03 23:47:17.501   841   903 I libPowerHal: [perfLockAcq] idx:1 hdl:66317 hint:25 pid:841 duration:10000 => ret_hdl:66317
+06-03 23:47:17.501   841   903 I libPowerHal: [PE] scn:1 hdl:66317 hint:25 comm:mtkpower@1.0-se pid:841
+06-03 23:47:17.501   841   903 I libPowerHal: [PE] MTKPOWER_HINT_APP_TOUCH update cmd:3408600 param:1
+06-03 23:47:17.501  8485  8485 V PhoneWindow: DecorView setVisiblity: visibility = 8, Parent = android.view.ViewRootImpl@c231d3d, this = DecorView@80a3932[InputMethod]
+06-03 23:47:17.502 12548 12548 D ViewRootImpl[MainActivity]: processMotionEvent MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=1272.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x1, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=108223619, downTime=108223619, deviceId=-1, source=0x1002, displayId=0 }
+06-03 23:47:17.507 12548 12548 D ViewRootImpl[MainActivity]: dispatchPointerEvent handled=true, event=MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=1272.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x1, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=108223619, downTime=108223619, deviceId=-1, source=0x1002, displayId=0 }
+06-03 23:47:17.512   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.512  1472  6507 D OppoDisplayPolicy: com.android.systemui, change system app cutoutMode: color always
+06-03 23:47:17.516   841   870 I mtkpower@impl: [setMode] type:5, enabled:0
+06-03 23:47:17.528   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.542   841   903 I libPowerHal: [perfLockRel] hdl:66317, idx:1
+06-03 23:47:17.542   841   903 I libPowerHal: [PD] scn:1 hdl:66317 hint:25 comm:mtkpower@1.0-se pid:841
+06-03 23:47:17.542   841   903 I libPowerHal: [PD] MTKPOWER_HINT_APP_TOUCH update cmd:3408600 param:0
+06-03 23:47:17.542 12548 12548 D ViewRootImpl[MainActivity]: processMotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=1272.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x1, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=108223660, downTime=108223619, deviceId=-1, source=0x1002, displayId=0 }
+06-03 23:47:17.543 12548 12548 D ViewRootImpl[MainActivity]: dispatchPointerEvent handled=true, event=MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=1272.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x1, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=108223660, downTime=108223619, deviceId=-1, source=0x1002, displayId=0 }
+06-03 23:47:17.544   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.545 12548 12548 E Parcel  : Reading a NULL string not supported here.
+06-03 23:47:17.546  1472  3042 I mtkpower_client: perf_lock_rel, hdl:66316, tid:3042
+06-03 23:47:17.547  1472  3042 I mtkpower_client: perf_lock_acq, hdl:66316, dur:0, num:12, tid:3042
+06-03 23:47:17.547   865  1818 D DispPerfService: get hint proc=ActivityRecord{feb4af1 u0 com.example.dogglers, idx=0 none
+06-03 23:47:17.548   841   903 I libPowerHal: [perfLockRel] hdl:66316, idx:0
+06-03 23:47:17.548   841   903 I libPowerHal: [PD] scn:0 hdl:66316 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.548   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+06-03 23:47:17.548   841   903 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+06-03 23:47:17.548   841   903 I libPowerHal: [PD] system_server update cmd:10000100 param:0
+06-03 23:47:17.548   841   903 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+06-03 23:47:17.549   841   870 I mtkpower@impl: [setMode] type:5, enabled:1
+06-03 23:47:17.549  1472  3042 I mtkpower_client: ret_hdl:66318
+06-03 23:47:17.549   841   903 I libPowerHal: [perfLockAcq] idx:0 hdl:66318 hint:-1 pid:1472 duration:0 => ret_hdl:66318
+06-03 23:47:17.549   841   903 I libPowerHal: [PE] scn:0 hdl:66318 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.550   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2203000 -1
+06-03 23:47:17.550   841   903 I libPowerHal: [PE] system_server update cmd:1410000, param:1
+06-03 23:47:17.550   841   903 I libPowerHal: [PE] system_server update cmd:10000100, param:0
+06-03 23:47:17.550   841   903 I libPowerHal: [PE] system_server update cmd:1c3c000, param:0
+06-03 23:47:17.557 12548 12548 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@db9fbaa in: PAUSED
+06-03 23:47:17.557 12548 12548 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.MainActivity@db9fbaa
+06-03 23:47:17.560  1472  3936 I InputDispatcher: setFocusedApplication displayId=0 <invalid>
+06-03 23:47:17.560   841   869 I mtkpower@impl: [notifyAppState] act com.example.dogglers.MainActivity => com.example.dogglers.HorizontalListActivity
+06-03 23:47:17.561   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.562   865  1818 D DispPerfService: get hint proc=Surface(name=3c9c3ca StatusBar), idx=0 none
+06-03 23:47:17.563   865  1818 D DispPerfService: get hint proc=Surface(name=8790d11 NavigationBar0), idx=0 none
+06-03 23:47:17.565  1472  3936 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+06-03 23:47:17.570  1472  3042 I mtkpower_client: perf_lock_rel, hdl:66318, tid:3042
+06-03 23:47:17.570  1472  3042 I mtkpower_client: perf_lock_acq, hdl:66318, dur:0, num:12, tid:3042
+06-03 23:47:17.570 12548 12638 E libEGL  : Invalid file path for libcolorx-loader.so
+06-03 23:47:17.571 12548 12638 D libMEOW : applied 0 plugin for [com.example.dogglers].
+06-03 23:47:17.571   841   903 I libPowerHal: [perfLockRel] hdl:66318, idx:0
+06-03 23:47:17.571   841   903 I libPowerHal: [PD] scn:0 hdl:66318 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.571   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+06-03 23:47:17.571   841   903 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+06-03 23:47:17.571   841   903 I libPowerHal: [PD] system_server update cmd:10000100 param:0
+06-03 23:47:17.571   841   903 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+06-03 23:47:17.572  1472  3042 I mtkpower_client: ret_hdl:66319
+06-03 23:47:17.572   841   903 I libPowerHal: [perfLockAcq] idx:0 hdl:66319 hint:-1 pid:1472 duration:0 => ret_hdl:66319
+06-03 23:47:17.572   841   903 I libPowerHal: [PE] scn:0 hdl:66319 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.572   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2203000 -1
+06-03 23:47:17.572   841   903 I libPowerHal: [PE] system_server update cmd:1410000, param:1
+06-03 23:47:17.572   841   903 I libPowerHal: [PE] system_server update cmd:10000100, param:0
+06-03 23:47:17.572   841   903 I libPowerHal: [PE] system_server update cmd:1c3c000, param:0
+06-03 23:47:17.578   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.579 12548 12548 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f9e1694 in: PRE_ON_CREATE
+06-03 23:47:17.579 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.HorizontalListActivity mCallingUid=10242 }, activity=com.example.dogglers.HorizontalListActivity@f9e1694
+06-03 23:47:17.593  1472  3936 I InputDispatcher: Focus left window: Window{8a2fc4d u0 com.example.dogglers/com.example.dogglers.MainActivity} in display 0
+06-03 23:47:17.594  1472  3936 I InputDispatcher: Window went away: Window{8a2fc4d u0 com.example.dogglers/com.example.dogglers.MainActivity}
+06-03 23:47:17.594   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.610   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.623 12548 12548 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f9e1694 in: CREATED
+06-03 23:47:17.623 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.HorizontalListActivity mCallingUid=10242 }, activity=com.example.dogglers.HorizontalListActivity@f9e1694
+06-03 23:47:17.625 12548 12548 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f9e1694 in: STARTED
+06-03 23:47:17.625 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.HorizontalListActivity mCallingUid=10242 }, activity=com.example.dogglers.HorizontalListActivity@f9e1694
+06-03 23:47:17.627   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.628 12548 12548 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f9e1694 in: RESUMED
+06-03 23:47:17.628 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.HorizontalListActivity mCallingUid=10242 }, activity=com.example.dogglers.HorizontalListActivity@f9e1694
+06-03 23:47:17.629 12548 12548 V PhoneWindow: DecorView setVisiblity: visibility = 4, Parent = null, this = DecorView@1db28eb[]
+06-03 23:47:17.629   865  1818 I SurfaceFlinger: [SF client] NEW(0xb4000073f5a4a700) for (12548:com.example.dogglers)
+06-03 23:47:17.633 12548 12548 D ViewRootImpl[HorizontalListActivity]: hardware acceleration = true , fakeHwAccelerated = false, sRendererDisabled = false, forceHwAccelerated = false, sSystemRendererDisabled = false
+06-03 23:47:17.634  1472  3936 D OppoDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+06-03 23:47:17.635   865  1818 D DispPerfService: get hint proc=13d261 com.example.dogglers, idx=0 none
+06-03 23:47:17.637 12548 12548 E libEGL  : Invalid file path for libcolorx-loader.so
+06-03 23:47:17.637 12548 12548 I chatty  : uid=10242(com.example.dogglers) identical 4 lines
+06-03 23:47:17.637 12548 12548 E libEGL  : Invalid file path for libcolorx-loader.so
+06-03 23:47:17.637 12548 12548 I InputTransport: Create ARC handle: 0xb40000783c986620
+06-03 23:47:17.637 12548 12548 V PhoneWindow: DecorView setVisiblity: visibility = 0, Parent = android.view.ViewRootImpl@3c3aa06, this = DecorView@1db28eb[HorizontalListActivity]
+06-03 23:47:17.640  8485  8485 V PhoneWindow: DecorView setVisiblity: visibility = 8, Parent = android.view.ViewRootImpl@c231d3d, this = DecorView@80a3932[InputMethod]
+06-03 23:47:17.642   865   865 D OppoExLayer: ~Layer() sequence=28500, name=Surface(name=3c9c3ca StatusBar)/@0xba48ab7 - animation-leash#1@0xb4000073f58cc000
+06-03 23:47:17.642   865   865 D OppoExLayer: ~Layer() sequence=28501, name=Surface(name=8790d11 NavigationBar0)/@0x7dd0224 - animation-leash#1@0xb4000073f58d2000
+06-03 23:47:17.643   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.660   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.662   865  1818 D DispPerfService: get hint proc=Surface(name=3c9c3ca StatusBar), idx=0 none
+06-03 23:47:17.663   865   937 D DispPerfService: get hint proc=Surface(name=8790d11 NavigationBar0), idx=0 none
+06-03 23:47:17.673 12548 12548 D skia    : SkJpegCodec::onGetPixels +
+06-03 23:47:17.673 12548 12548 D skia    : stream getLength() supported, buffer addr 0x77ab246000 length 1810048
+06-03 23:47:17.675 12548 12548 D skia    : size 1807770,phy_addr 0x1fc7cc000
+06-03 23:47:17.675 12548 12548 D skia    : LoadInputStreamToIonMem va 0x77ab246000 pa 0xfc7cc000  size 1810048
+06-03 23:47:17.675 12548 12548 D libjpeg-alpha: Huffman Builder run in subthread
+06-03 23:47:17.671 12548 12548 W xample.dogglers: type=1400 audit(0.0:203675): avc: denied { search } for name="ppm" dev="proc" ino=4026531966 scontext=u:r:untrusted_app:s0:c242,c256,c512,c768 tcontext=u:object_r:proc_ppm:s0 tclass=dir permissive=0 app=com.example.dogglers
+06-03 23:47:17.676   865   865 D OppoExLayer: ~Layer() sequence=28502, name=Surface(name=af77220 Splash Screen com.example.dogglers)/@0x9fd55d7 - animation-leash#0@0xb4000073f58bd000
+06-03 23:47:17.676   865   865 D OppoExLayer: ~Layer() sequence=28493, name=af77220 Splash Screen com.example.dogglers#0@0xb4000073f00ef000
+06-03 23:47:17.676  1472  3936 I InputDispatcher: Window went away: Splash Screen com.example.dogglers#0
+06-03 23:47:17.677   865   865 I BufferQueueConsumer: [Splash Screen com.example.dogglers#0](id:36100001315,api:0,p:-1,c:865) disconnect()
+06-03 23:47:17.677   865   865 I BufferQueue: [Splash Screen com.example.dogglers#0](this:0xb4000073f5ab3258,id:4885,api:2,p:-1,c:-1) onDestructor()
+06-03 23:47:17.677   865   865 D OppoExLayer: ~Layer() sequence=28494, name=Splash Screen com.example.dogglers#0@0xb4000073f5880000
+06-03 23:47:17.677   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.675 12548 12548 W xample.dogglers: type=1400 audit(0.0:203676): avc: denied { search } for name="ppm" dev="proc" ino=4026531966 scontext=u:r:untrusted_app:s0:c242,c256,c512,c768 tcontext=u:object_r:proc_ppm:s0 tclass=dir permissive=0 app=com.example.dogglers
+06-03 23:47:17.679 12548 12548 D libjpeg-alpha: Tile Decoder (#thread:4, size:512 512 512 587x368, alignment:256x16)
+06-03 23:47:17.693   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.710   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.710 12548 12548 D skia    : SkJpegCodec::onGetPixels -
+06-03 23:47:17.721  1472  3936 D OppoDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+06-03 23:47:17.723   865  1818 D DispPerfService: get hint proc=com.example.dogglers, idx=0 none
+06-03 23:47:17.723   865  1818 I BufferQueueConsumer: [](id:36100001317,api:0,p:-1,c:865) connect(): controlledByApp=false
+06-03 23:47:17.723   865  1818 I BufferQueue: [unnamed-865-4887](this:0xb4000073f5ab4058,id:4887,api:0,p:-1,c:-1) BufferQueue core=(865:/system/bin/surfaceflinger)
+06-03 23:47:17.725   865  1818 D DispPerfService: get hint proc=Surface(name=3c9c3ca StatusBar), idx=0 none
+06-03 23:47:17.726   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.726   865  1818 D DispPerfService: get hint proc=Surface(name=8790d11 NavigationBar0), idx=0 none
+06-03 23:47:17.727  1472  3936 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+06-03 23:47:17.733   865  1393 I BufferQueueProducer: [com.example.dogglers/com.example.dogglers.HorizontalListActivity#0](id:36100001317,api:1,p:12548,c:865) connect(): api=1 producerControlledByApp=false
+06-03 23:47:17.743   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.759  1472  3936 I InputDispatcher: Window went away: com.example.dogglers/com.example.dogglers.HorizontalListActivity#0
+06-03 23:47:17.759   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.763   865  1818 D DispPerfService: onframeavailable pid=12548, slot=4, seq=28510, name=com.example.dogglers:com.example.dogglers/com.example.dogglers.HorizontalListActivity#0
+06-03 23:47:17.770   865  1393 D DispPerfService: get hint proc=Surface(name=ActivityRecord{feb4af1 u0 com.example.dogglers, idx=0 none
+06-03 23:47:17.770   865  1393 D DispPerfService: get hint proc=Surface(name=ActivityRecord{feb4af1 u0 com.example.dogglers, idx=0 none
+06-03 23:47:17.772   865  1393 D DispPerfService: get hint proc=Surface(name=ActivityRecord{595e156 u0 com.example.dogglers, idx=0 none
+06-03 23:47:17.773   865  1393 D DispPerfService: get hint proc=Surface(name=ActivityRecord{595e156 u0 com.example.dogglers, idx=0 none
+06-03 23:47:17.774  1472  1537 I ActivityTaskManager: Displayed com.example.dogglers/.HorizontalListActivity: +227ms
+06-03 23:47:17.776   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.781  8485  8485 V PhoneWindow: DecorView setVisiblity: visibility = 8, Parent = android.view.ViewRootImpl@c231d3d, this = DecorView@80a3932[InputMethod]
+06-03 23:47:17.783  8485  8485 V PhoneWindow: DecorView setVisiblity: visibility = 8, Parent = android.view.ViewRootImpl@c231d3d, this = DecorView@80a3932[InputMethod]
+06-03 23:47:17.785   841   870 I mtkpower@impl: [setMode] type:5, enabled:0
+06-03 23:47:17.792   865   865 D OppoExLayer: ~Layer() sequence=28508, name=Surface(name=3c9c3ca StatusBar)/@0xba48ab7 - animation-leash#1@0xb4000073f5827000
+06-03 23:47:17.792   865   865 D OppoExLayer: ~Layer() sequence=28509, name=Surface(name=8790d11 NavigationBar0)/@0x7dd0224 - animation-leash#1@0xb4000073f58c3000
+06-03 23:47:17.792  1472  3936 I InputDispatcher: Focus entered window: Window{13d261 u0 com.example.dogglers/com.example.dogglers.HorizontalListActivity} in display 0
+06-03 23:47:17.793   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.795  1472  3936 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.dogglers
+06-03 23:47:17.795  1472  3936 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false  isExist=true )
+06-03 23:47:17.796   865   937 D DispPerfService: get hint proc=Surface(name=8cf94b9 InputMethod), idx=0 none
+06-03 23:47:17.797  8485  8485 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+06-03 23:47:17.798  8485  8485 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+06-03 23:47:17.798  8485  8485 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+06-03 23:47:17.798  8485  8485 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+06-03 23:47:17.810   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.810  1472  3936 D OppoDisplayPolicy: com.android.systemui, change system app cutoutMode: color always
+06-03 23:47:17.812  8485  8485 V PhoneWindow: DecorView setVisiblity: visibility = 8, Parent = android.view.ViewRootImpl@c231d3d, this = DecorView@80a3932[InputMethod]
+06-03 23:47:17.825   865   865 D OppoExLayer: ~Layer() sequence=28503, name=Surface(name=8cf94b9 InputMethod)/@0xf89605f - animation-leash#0@0xb4000073f58c0000
+06-03 23:47:17.826   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.826  1472  3936 D OppoDisplayPolicy: com.android.systemui, change system app cutoutMode: color always
+06-03 23:47:17.842   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.843  1472  3042 I mtkpower_client: perf_lock_rel, hdl:66319, tid:3042
+06-03 23:47:17.843  1472  3042 I mtkpower_client: perf_lock_acq, hdl:66319, dur:0, num:12, tid:3042
+06-03 23:47:17.844   841   903 I libPowerHal: [perfLockRel] hdl:66319, idx:0
+06-03 23:47:17.844   841   903 I libPowerHal: [PD] scn:0 hdl:66319 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.844   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+06-03 23:47:17.844   841   903 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+06-03 23:47:17.844   841   903 I libPowerHal: [PD] system_server update cmd:10000100 param:0
+06-03 23:47:17.844   841   903 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+06-03 23:47:17.844   841   903 I libPowerHal: [perfLockAcq] idx:0 hdl:66320 hint:-1 pid:1472 duration:0 => ret_hdl:66320
+06-03 23:47:17.844   841   903 I libPowerHal: [PE] scn:0 hdl:66320 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:17.844  1472  3042 I mtkpower_client: ret_hdl:66320
+06-03 23:47:17.844   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2203000 -1
+06-03 23:47:17.844   841   903 I libPowerHal: [PE] system_server update cmd:1410000, param:1
+06-03 23:47:17.844   841   903 I libPowerHal: [PE] system_server update cmd:10000100, param:0
+06-03 23:47:17.844   841   903 I libPowerHal: [PE] system_server update cmd:1c3c000, param:0
+06-03 23:47:17.859   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:17.974   814   890 I chatty  : uid=1000(system) HwBinder:814_2 identical 7 lines
+06-03 23:47:17.991   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:18.001 12548 12548 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131230949/com.example.dogglers:id/horizontal_recycler_view>
+06-03 23:47:18.004 12548 12590 E Parcel  : Reading a NULL string not supported here.
+06-03 23:47:18.006  1472  3042 I mtkpower_client: perf_lock_rel, hdl:66320, tid:3042
+06-03 23:47:18.006  1472  3042 I mtkpower_client: perf_lock_acq, hdl:66320, dur:0, num:12, tid:3042
+06-03 23:47:18.006   841   903 I libPowerHal: [perfLockRel] hdl:66320, idx:0
+06-03 23:47:18.006   841   903 I libPowerHal: [PD] scn:0 hdl:66320 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:18.006   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+06-03 23:47:18.006   841   903 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+06-03 23:47:18.006   841   903 I libPowerHal: [PD] system_server update cmd:10000100 param:0
+06-03 23:47:18.006   841   903 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+06-03 23:47:18.006   865  1818 D DispPerfService: get hint proc=ActivityRecord{26290be u0 com.example.dogglers, idx=0 none
+06-03 23:47:18.007  1472  3042 I mtkpower_client: ret_hdl:66321
+06-03 23:47:18.007   841   903 I libPowerHal: [perfLockAcq] idx:0 hdl:66321 hint:-1 pid:1472 duration:0 => ret_hdl:66321
+06-03 23:47:18.007   841   903 I libPowerHal: [PE] scn:0 hdl:66321 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:18.007   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2203000 -1
+06-03 23:47:18.007   841   903 I libPowerHal: [PE] system_server update cmd:1410000, param:1
+06-03 23:47:18.007   841   903 I libPowerHal: [PE] system_server update cmd:10000100, param:0
+06-03 23:47:18.007   841   870 I mtkpower@impl: [setMode] type:5, enabled:1
+06-03 23:47:18.007   841   903 I libPowerHal: [PE] system_server update cmd:1c3c000, param:0
+06-03 23:47:18.008   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:18.013 12548 12548 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f9e1694 in: PAUSED
+06-03 23:47:18.013 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.HorizontalListActivity mCallingUid=10242 }, activity=com.example.dogglers.HorizontalListActivity@f9e1694
+06-03 23:47:18.016  1472  5312 I InputDispatcher: setFocusedApplication displayId=0 <invalid>
+06-03 23:47:18.016   841   869 I mtkpower@impl: [notifyAppState] act com.example.dogglers.HorizontalListActivity => androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+06-03 23:47:18.017  1472  5312 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+06-03 23:47:18.021  1472  3042 I mtkpower_client: perf_lock_rel, hdl:66321, tid:3042
+06-03 23:47:18.021  1472  3042 I mtkpower_client: perf_lock_acq, hdl:66321, dur:0, num:12, tid:3042
+06-03 23:47:18.022   841   869 I mtkpower@impl: [check_work_req] i:0, msg:1 hdl:66321, wait
+06-03 23:47:18.022 12548 12644 E libEGL  : Invalid file path for libcolorx-loader.so
+06-03 23:47:18.022 12548 12644 D libMEOW : applied 0 plugin for [com.example.dogglers].
+06-03 23:47:18.022   841   903 I libPowerHal: [perfLockRel] hdl:66321, idx:0
+06-03 23:47:18.022   841   903 I libPowerHal: [PD] scn:0 hdl:66321 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:18.022   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+06-03 23:47:18.022   841   903 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+06-03 23:47:18.022   841   903 I libPowerHal: [PD] system_server update cmd:10000100 param:0
+06-03 23:47:18.023   841   903 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+06-03 23:47:18.024  1472  3042 I mtkpower_client: ret_hdl:66322
+06-03 23:47:18.024   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:18.024   841   903 I libPowerHal: [perfLockAcq] idx:0 hdl:66322 hint:-1 pid:1472 duration:0 => ret_hdl:66322
+06-03 23:47:18.024   841   903 I libPowerHal: [PE] scn:0 hdl:66322 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:18.025   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2203000 -1
+06-03 23:47:18.025   841   903 I libPowerHal: [PE] system_server update cmd:1410000, param:1
+06-03 23:47:18.025   841   903 I libPowerHal: [PE] system_server update cmd:10000100, param:0
+06-03 23:47:18.025   841   903 I libPowerHal: [PE] system_server update cmd:1c3c000, param:0
+06-03 23:47:18.026 12548 12548 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6241b31 in: PRE_ON_CREATE
+06-03 23:47:18.027 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10242 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6241b31
+06-03 23:47:18.036 12548 12548 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6241b31 in: CREATED
+06-03 23:47:18.037 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10242 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6241b31
+06-03 23:47:18.038 12548 12548 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6241b31 in: STARTED
+06-03 23:47:18.038 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10242 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6241b31
+06-03 23:47:18.040  1472  3936 I InputDispatcher: Focus left window: Window{13d261 u0 com.example.dogglers/com.example.dogglers.HorizontalListActivity} in display 0
+06-03 23:47:18.040  1472  3936 I InputDispatcher: Window went away: Window{13d261 u0 com.example.dogglers/com.example.dogglers.HorizontalListActivity}
+06-03 23:47:18.041 12548 12548 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6241b31 in: RESUMED
+06-03 23:47:18.041   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:18.041 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10242 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6241b31
+06-03 23:47:18.042 12548 12548 V PhoneWindow: DecorView setVisiblity: visibility = 4, Parent = null, this = DecorView@96e396d[]
+06-03 23:47:18.042   865  1818 I SurfaceFlinger: [SF client] NEW(0xb4000073f02540c0) for (12548:com.example.dogglers)
+06-03 23:47:18.046 12548 12548 D ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]: hardware acceleration = true , fakeHwAccelerated = false, sRendererDisabled = false, forceHwAccelerated = false, sSystemRendererDisabled = false
+06-03 23:47:18.047  1472  5312 D OppoDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+06-03 23:47:18.047   865  1818 D DispPerfService: get hint proc=a4ce4e9 com.example.dogglers, idx=0 none
+06-03 23:47:18.050 12548 12548 E libEGL  : Invalid file path for libcolorx-loader.so
+06-03 23:47:18.050 12548 12548 I chatty  : uid=10242(com.example.dogglers) identical 4 lines
+06-03 23:47:18.050 12548 12548 E libEGL  : Invalid file path for libcolorx-loader.so
+06-03 23:47:18.050 12548 12548 I InputTransport: Create ARC handle: 0xb40000783c9d3020
+06-03 23:47:18.051 12548 12548 V PhoneWindow: DecorView setVisiblity: visibility = 0, Parent = android.view.ViewRootImpl@e57cdf0, this = DecorView@96e396d[InstrumentationActivityInvoker$EmptyActivity]
+06-03 23:47:18.057   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:18.063  1472  5312 D OppoDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+06-03 23:47:18.065   865  1393 D DispPerfService: get hint proc=com.example.dogglers, idx=0 none
+06-03 23:47:18.065   865  1393 I BufferQueueConsumer: [](id:36100001318,api:0,p:-1,c:865) connect(): controlledByApp=false
+06-03 23:47:18.065   865  1393 I BufferQueue: [unnamed-865-4888](this:0xb4000073f5b47658,id:4888,api:0,p:-1,c:-1) BufferQueue core=(865:/system/bin/surfaceflinger)
+06-03 23:47:18.067   865  1393 D DispPerfService: get hint proc=Surface(name=3c9c3ca StatusBar), idx=0 none
+06-03 23:47:18.067   865  1393 D DispPerfService: get hint proc=Surface(name=8790d11 NavigationBar0), idx=0 none
+06-03 23:47:18.068  1472  5312 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+06-03 23:47:18.072   865  1393 I BufferQueueProducer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0](id:36100001318,api:1,p:12548,c:865) connect(): api=1 producerControlledByApp=false
+06-03 23:47:18.073   865   865 D OppoExLayer: ~Layer() sequence=28516, name=Surface(name=ActivityRecord{595e156 u0 com.example.dogglers/.MainActivity)/@0x9543e0d - animation-bounds#0@0xb4000073f5834000
+06-03 23:47:18.073   865   865 D OppoExLayer: ~Layer() sequence=28515, name=Surface(name=ActivityRecord{595e156 u0 com.example.dogglers/.MainActivity)/@0x9543e0d - animation-leash#0@0xb4000073f58db000
+06-03 23:47:18.073   865   865 D OppoExLayer: ~Layer() sequence=28514, name=Surface(name=ActivityRecord{feb4af1 u0 com.example.dogglers/.HorizontalListActivity)/@0x4e91cf8 - animation-bounds#0@0xb4000073f58d8000
+06-03 23:47:18.073   865   865 D OppoExLayer: ~Layer() sequence=28513, name=Surface(name=ActivityRecord{feb4af1 u0 com.example.dogglers/.HorizontalListActivity)/@0x4e91cf8 - animation-leash#0@0xb4000073f58d5000
+06-03 23:47:18.075   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:18.082   865  1818 D DispPerfService: onframeavailable pid=12548, slot=0, seq=28520, name=com.example.dogglers:com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0
+06-03 23:47:18.088  1472  1537 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +82ms
+06-03 23:47:18.090  1472  6507 I InputDispatcher: Window went away: com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0
+06-03 23:47:18.090   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:18.096  8485  8485 V PhoneWindow: DecorView setVisiblity: visibility = 8, Parent = android.view.ViewRootImpl@c231d3d, this = DecorView@80a3932[InputMethod]
+06-03 23:47:18.099 12548 12590 E Parcel  : Reading a NULL string not supported here.
+06-03 23:47:18.101  1472  3042 I mtkpower_client: perf_lock_rel, hdl:66322, tid:3042
+06-03 23:47:18.101  1472  3042 I mtkpower_client: perf_lock_acq, hdl:66322, dur:0, num:12, tid:3042
+06-03 23:47:18.101   841   903 I libPowerHal: [perfLockRel] hdl:66322, idx:0
+06-03 23:47:18.101   841   903 I libPowerHal: [PD] scn:0 hdl:66322 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:18.102   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+06-03 23:47:18.102   841   903 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+06-03 23:47:18.102   841   903 I libPowerHal: [PD] system_server update cmd:10000100 param:0
+06-03 23:47:18.102   865  1818 D DispPerfService: get hint proc=ActivityRecord{4bfa62a u0 com.example.dogglers, idx=0 none
+06-03 23:47:18.102   841   903 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+06-03 23:47:18.102   841   903 I libPowerHal: [perfLockAcq] idx:0 hdl:66323 hint:-1 pid:1472 duration:0 => ret_hdl:66323
+06-03 23:47:18.102  1472  3042 I mtkpower_client: ret_hdl:66323
+06-03 23:47:18.102   841   903 I libPowerHal: [PE] scn:0 hdl:66323 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:18.104   865  1818 I BufferQueueProducer: [com.example.dogglers/com.example.dogglers.MainActivity#0](id:36100001316,api:1,p:12548,c:865) disconnect(): api=1
+06-03 23:47:18.104   841   870 I mtkpower@impl: [setMode] type:5, enabled:1
+06-03 23:47:18.106   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2203000 -1
+06-03 23:47:18.106   841   903 I libPowerHal: [PE] system_server update cmd:1410000, param:1
+06-03 23:47:18.106   841   903 I libPowerHal: [PE] system_server update cmd:10000100, param:0
+06-03 23:47:18.106   841   903 I libPowerHal: [PE] system_server update cmd:1c3c000, param:0
+06-03 23:47:18.107   865   865 D OppoExLayer: ~Layer() sequence=28511, name=Surface(name=3c9c3ca StatusBar)/@0xba48ab7 - animation-leash#0@0xb4000073f587d000
+06-03 23:47:18.107   865   865 D OppoExLayer: ~Layer() sequence=28512, name=Surface(name=8790d11 NavigationBar0)/@0x7dd0224 - animation-leash#0@0xb4000073f58a7000
+06-03 23:47:18.107  1472  6507 I InputDispatcher: Focus entered window: Window{a4ce4e9 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity} in display 0
+06-03 23:47:18.110   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:18.118 12548 12548 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@db9fbaa in: STOPPED
+06-03 23:47:18.118 12548 12548 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.MainActivity@db9fbaa
+06-03 23:47:18.119 12548 12548 V PhoneWindow: DecorView setVisiblity: visibility = 4, Parent = android.view.ViewRootImpl@5e3dd07, this = DecorView@df3c188[MainActivity]
+06-03 23:47:18.120 12548 12548 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@db9fbaa in: DESTROYED
+06-03 23:47:18.120 12548 12548 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-03 23:47:18.121 12548 12548 D View    : [Warning] assignParent to null: this = DecorView@df3c188[MainActivity]
+06-03 23:47:18.123  1472  6507 I InputDispatcher: Window went away: com.example.dogglers/com.example.dogglers.MainActivity#0
+06-03 23:47:18.123   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:18.125 12548 12548 I InputTransport: Destroy ARC handle: 0xb40000783c9345a0
+06-03 23:47:18.130 12548 12548 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6241b31 in: PAUSED
+06-03 23:47:18.130 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10242 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6241b31
+06-03 23:47:18.133  1472  3936 I InputDispatcher: setFocusedApplication displayId=0 <invalid>
+06-03 23:47:18.134  1472  3936 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+06-03 23:47:18.138  1472  6507 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.dogglers
+06-03 23:47:18.138  1472  6507 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false  isExist=true )
+06-03 23:47:18.139   865   865 I BufferQueueConsumer: [com.example.dogglers/com.example.dogglers.MainActivity#0](id:36100001316,api:0,p:-1,c:865) disconnect()
+06-03 23:47:18.140   865   865 I BufferQueue: [com.example.dogglers/com.example.dogglers.MainActivity#0](this:0xb400007406918658,id:4886,api:1,p:-1,c:-1) onDestructor()
+06-03 23:47:18.140   865   865 D OppoExLayer: ~Layer() sequence=28499, name=com.example.dogglers/com.example.dogglers.MainActivity#0@0xb4000073f58c9000
+06-03 23:47:18.140   865   865 D OppoExLayer: ~Layer() sequence=28497, name=ActivityRecord{595e156 u0 com.example.dogglers/.MainActivity#0@0xb4000073f58ba000
+06-03 23:47:18.140   865   865 D OppoExLayer: ~Layer() sequence=28498, name=8a2fc4d com.example.dogglers/com.example.dogglers.MainActivity#0@0xb4000073f58c6000
+06-03 23:47:18.142   865  1393 I BufferQueueProducer: [com.example.dogglers/com.example.dogglers.HorizontalListActivity#0](id:36100001317,api:1,p:12548,c:865) disconnect(): api=1
+06-03 23:47:18.142   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:18.143   865  1393 D DispPerfService: get hint proc=Surface(name=8cf94b9 InputMethod), idx=0 none
+06-03 23:47:18.144  8485  8485 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+06-03 23:47:18.145  8485  8485 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+06-03 23:47:18.145  8485  8485 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+06-03 23:47:18.146  8485  8485 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+06-03 23:47:18.150 12548 12548 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d288869 in: DESTROYED
+06-03 23:47:18.150 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10242 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d288869
+06-03 23:47:18.152 12548 12645 E libEGL  : Invalid file path for libcolorx-loader.so
+06-03 23:47:18.152 12548 12645 D libMEOW : applied 0 plugin for [com.example.dogglers].
+06-03 23:47:18.152  1472  3042 I mtkpower_client: perf_lock_rel, hdl:66323, tid:3042
+06-03 23:47:18.152  1472  3042 I mtkpower_client: perf_lock_acq, hdl:66323, dur:0, num:12, tid:3042
+06-03 23:47:18.153   841   903 I libPowerHal: [perfLockRel] hdl:66323, idx:0
+06-03 23:47:18.153   841   903 I libPowerHal: [PD] scn:0 hdl:66323 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:18.153   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+06-03 23:47:18.153   841   903 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+06-03 23:47:18.153   841   903 I libPowerHal: [PD] system_server update cmd:10000100 param:0
+06-03 23:47:18.153   841   903 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+06-03 23:47:18.154  1472  3042 I mtkpower_client: ret_hdl:66324
+06-03 23:47:18.154   841   903 I libPowerHal: [perfLockAcq] idx:0 hdl:66324 hint:-1 pid:1472 duration:0 => ret_hdl:66324
+06-03 23:47:18.154   841   903 I libPowerHal: [PE] scn:0 hdl:66324 lock_user:system_server pid:1472 tid:3042 dur:0
+06-03 23:47:18.154   841   903 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2203000 -1
+06-03 23:47:18.154   841   903 I libPowerHal: [PE] system_server update cmd:1410000, param:1
+06-03 23:47:18.154   841   903 I libPowerHal: [PE] system_server update cmd:10000100, param:0
+06-03 23:47:18.154   841   903 I libPowerHal: [PE] system_server update cmd:1c3c000, param:0
+06-03 23:47:18.156   865   865 D OppoExLayer: ~Layer() sequence=28517, name=Surface(name=8cf94b9 InputMethod)/@0xf89605f - animation-leash#1@0xb4000073f58a1000
+06-03 23:47:18.156   865   865 D OppoExLayer: ~Layer() sequence=28492, name=ActivityRecord{ca76396 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity#0@0xb4000073f0069000
+06-03 23:47:18.156 12548 12548 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6c2fafa in: PRE_ON_CREATE
+06-03 23:47:18.156  1472  6507 I InputDispatcher: Focus left window: Window{a4ce4e9 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity} in display 0
+06-03 23:47:18.156  1472  6507 I InputDispatcher: Window went away: Window{a4ce4e9 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity}
+06-03 23:47:18.157   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:18.157 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10242 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6c2fafa
+06-03 23:47:18.157  1472  5312 D OppoDisplayPolicy: com.android.systemui, change system app cutoutMode: color always
+06-03 23:47:18.169 12548 12548 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6c2fafa in: CREATED
+06-03 23:47:18.169 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10242 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6c2fafa
+06-03 23:47:18.170 12548 12548 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6c2fafa in: STARTED
+06-03 23:47:18.171 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10242 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6c2fafa
+06-03 23:47:18.173 12548 12548 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6c2fafa in: RESUMED
+06-03 23:47:18.173   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:18.173 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10242 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6c2fafa
+06-03 23:47:18.174 12548 12548 V PhoneWindow: DecorView setVisiblity: visibility = 4, Parent = null, this = DecorView@b036b08[]
+06-03 23:47:18.174   865  1393 I SurfaceFlinger: [SF client] NEW(0xb400007406976b00) for (12548:com.example.dogglers)
+06-03 23:47:18.177 12548 12548 D ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]: hardware acceleration = true , fakeHwAccelerated = false, sRendererDisabled = false, forceHwAccelerated = false, sSystemRendererDisabled = false
+06-03 23:47:18.178  1472  6507 D OppoDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+06-03 23:47:18.179   865  1393 D DispPerfService: get hint proc=eb393e7 com.example.dogglers, idx=0 none
+06-03 23:47:18.180 12548 12548 E libEGL  : Invalid file path for libcolorx-loader.so
+06-03 23:47:18.180 12548 12548 I chatty  : uid=10242(com.example.dogglers) identical 4 lines
+06-03 23:47:18.180 12548 12548 E libEGL  : Invalid file path for libcolorx-loader.so
+06-03 23:47:18.181 12548 12548 I InputTransport: Create ARC handle: 0xb40000783c9d3260
+06-03 23:47:18.181 12548 12548 V PhoneWindow: DecorView setVisiblity: visibility = 0, Parent = android.view.ViewRootImpl@5f0b487, this = DecorView@b036b08[InstrumentationActivityInvoker$EmptyActivity]
+06-03 23:47:18.183 12548 12548 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f9e1694 in: STOPPED
+06-03 23:47:18.183 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.HorizontalListActivity mCallingUid=10242 }, activity=com.example.dogglers.HorizontalListActivity@f9e1694
+06-03 23:47:18.185 12548 12548 V PhoneWindow: DecorView setVisiblity: visibility = 4, Parent = android.view.ViewRootImpl@3c3aa06, this = DecorView@1db28eb[HorizontalListActivity]
+06-03 23:47:18.188  8485  8485 V PhoneWindow: DecorView setVisiblity: visibility = 8, Parent = android.view.ViewRootImpl@c231d3d, this = DecorView@80a3932[InputMethod]
+06-03 23:47:18.189   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:18.191  1472  6507 D OppoDisplayPolicy: com.android.systemui, change system app cutoutMode: color always
+06-03 23:47:18.193  1472  6507 D OppoDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+06-03 23:47:18.195   865  1393 D DispPerfService: get hint proc=com.example.dogglers, idx=0 none
+06-03 23:47:18.195   865  1393 I BufferQueueConsumer: [](id:36100001319,api:0,p:-1,c:865) connect(): controlledByApp=false
+06-03 23:47:18.196   865  1393 I BufferQueue: [unnamed-865-4889](this:0xb4000073f5b48458,id:4889,api:0,p:-1,c:-1) BufferQueue core=(865:/system/bin/surfaceflinger)
+06-03 23:47:18.197   865  1393 D DispPerfService: get hint proc=Surface(name=3c9c3ca StatusBar), idx=0 none
+06-03 23:47:18.198   865  1393 D DispPerfService: get hint proc=Surface(name=8790d11 NavigationBar0), idx=0 none
+06-03 23:47:18.199  1472  6507 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+06-03 23:47:18.203   865  1818 I BufferQueueProducer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#1](id:36100001319,api:1,p:12548,c:865) connect(): api=1 producerControlledByApp=false
+06-03 23:47:18.206   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:18.210   865  1393 D DispPerfService: onframeavailable pid=12548, slot=0, seq=28526, name=com.example.dogglers:com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#1
+06-03 23:47:18.211  1472  6507 D OppoDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+06-03 23:47:18.218  1472  1537 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +117ms
+06-03 23:47:18.223  1472  6507 I InputDispatcher: Focus entered window: Window{eb393e7 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity} in display 0
+06-03 23:47:18.223  1472  6507 I InputDispatcher: Window went away: com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#1
+06-03 23:47:18.223  1472  6507 I InputDispatcher: Window went away: com.example.dogglers/com.example.dogglers.HorizontalListActivity#0
+06-03 23:47:18.224   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:18.229  8485  8485 V PhoneWindow: DecorView setVisiblity: visibility = 8, Parent = android.view.ViewRootImpl@c231d3d, this = DecorView@80a3932[InputMethod]
+06-03 23:47:18.231  1472  6507 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.dogglers
+06-03 23:47:18.231  1472  6507 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false  isExist=true )
+06-03 23:47:18.232   865  1393 D DispPerfService: get hint proc=Surface(name=8cf94b9 InputMethod), idx=0 none
+06-03 23:47:18.233  8485  8485 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+06-03 23:47:18.233  8485  8485 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+06-03 23:47:18.234  8485  8485 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+06-03 23:47:18.234  8485  8485 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+06-03 23:47:18.238   865   865 I BufferQueueConsumer: [com.example.dogglers/com.example.dogglers.HorizontalListActivity#0](id:36100001317,api:0,p:-1,c:865) disconnect()
+06-03 23:47:18.238   865   865 I BufferQueue: [com.example.dogglers/com.example.dogglers.HorizontalListActivity#0](this:0xb4000073f5ab4058,id:4887,api:1,p:-1,c:-1) onDestructor()
+06-03 23:47:18.238   865   865 D OppoExLayer: ~Layer() sequence=28510, name=com.example.dogglers/com.example.dogglers.HorizontalListActivity#0@0xb4000073f5837000
+06-03 23:47:18.239   865   865 D OppoExLayer: ~Layer() sequence=28521, name=Surface(name=3c9c3ca StatusBar)/@0xba48ab7 - animation-leash#1@0xb4000073f5842000
+06-03 23:47:18.239   865   865 D OppoExLayer: ~Layer() sequence=28522, name=Surface(name=8790d11 NavigationBar0)/@0x7dd0224 - animation-leash#1@0xb4000073f5845000
+06-03 23:47:18.240   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:18.240   865  1393 I BufferQueueProducer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0](id:36100001318,api:1,p:12548,c:865) disconnect(): api=1
+06-03 23:47:18.241  1472  3936 D OppoDisplayPolicy: com.android.systemui, change system app cutoutMode: color always
+06-03 23:47:18.248  1472  5312 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+06-03 23:47:18.252 12548 12548 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6c2fafa in: PAUSED
+06-03 23:47:18.253 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10242 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6c2fafa
+06-03 23:47:18.255  1472  5312 I InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{feb4af1 u0 com.example.dogglers/.HorizontalListActivity t2533}
+06-03 23:47:18.255   865   865 D OppoExLayer: ~Layer() sequence=28524, name=Surface(name=8cf94b9 InputMethod)/@0xf89605f - animation-leash#0@0xb4000073f588f000
+06-03 23:47:18.255   841   869 I mtkpower@impl: [notifyAppState] act androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity => com.example.dogglers.HorizontalListActivity
+06-03 23:47:18.256  1472  3936 I InputDispatcher: Focus left window: Window{eb393e7 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity} in display 0
+06-03 23:47:18.256  1472  3936 I InputDispatcher: Window went away: Window{eb393e7 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity}
+06-03 23:47:18.256   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:18.261  8485  8485 V PhoneWindow: DecorView setVisiblity: visibility = 8, Parent = android.view.ViewRootImpl@c231d3d, this = DecorView@80a3932[InputMethod]
+06-03 23:47:18.261 12548 12548 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f9e1694 in: RESTARTED
+06-03 23:47:18.262 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.HorizontalListActivity mCallingUid=10242 }, activity=com.example.dogglers.HorizontalListActivity@f9e1694
+06-03 23:47:18.262 12548 12548 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f9e1694 in: STARTED
+06-03 23:47:18.263 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.HorizontalListActivity mCallingUid=10242 }, activity=com.example.dogglers.HorizontalListActivity@f9e1694
+06-03 23:47:18.263 12548 12548 V PhoneWindow: DecorView setVisiblity: visibility = 0, Parent = android.view.ViewRootImpl@3c3aa06, this = DecorView@1db28eb[HorizontalListActivity]
+06-03 23:47:18.263 12548 12548 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f9e1694 in: RESUMED
+06-03 23:47:18.264 12548 12548 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.HorizontalListActivity mCallingUid=10242 }, activity=com.example.dogglers.HorizontalListActivity@f9e1694
+06-03 23:47:18.264 12548 12548 V PhoneWindow: DecorView setVisiblity: visibility = 0, Parent = android.view.ViewRootImpl@3c3aa06, this = DecorView@1db28eb[HorizontalListActivity]
+06-03 23:47:18.273   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:18.274  1472  3936 D OppoDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+06-03 23:47:18.277   865  1818 D DispPerfService: get hint proc=com.example.dogglers, idx=0 none
+06-03 23:47:18.277   865  1818 I BufferQueueConsumer: [](id:3610000131a,api:0,p:-1,c:865) connect(): controlledByApp=false
+06-03 23:47:18.277   865  1818 I BufferQueue: [unnamed-865-4890](this:0xb4000073f5ab4e58,id:4890,api:0,p:-1,c:-1) BufferQueue core=(865:/system/bin/surfaceflinger)
+06-03 23:47:18.279   865  1818 D DispPerfService: get hint proc=Surface(name=3c9c3ca StatusBar), idx=0 none
+06-03 23:47:18.279   865  1818 D DispPerfService: get hint proc=Surface(name=8790d11 NavigationBar0), idx=0 none
+06-03 23:47:18.280  1472  3936 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+06-03 23:47:18.281  1472  5312 D OppoDisplayPolicy: com.android.systemui, change system app cutoutMode: color always
+06-03 23:47:18.282   865  1393 I BufferQueueProducer: [com.example.dogglers/com.example.dogglers.HorizontalListActivity#0](id:3610000131a,api:1,p:12548,c:865) connect(): api=1 producerControlledByApp=false
+06-03 23:47:18.289   814   890 I hwcomposer: [HRT] only_has_blit_dev_job:0, run simpleLayeringRule.
+06-03 23:47:18.295   865  1393 D DispPerfService: onframeavailable pid=12548, slot=4, seq=28530, name=com.example.dogglers:com.example.dogglers/com.example.dogglers.HorizontalListActivity#0
+06-03 23:47:18.297  8485  8485 V PhoneWindow: DecorView setVisiblity: visibility = 8, Parent = android.view.ViewRootImpl@c231d3d, this = DecorView@80a3932[InputMethod]
+06-03 23:47:18.299 12548 12590 I TestRunner: finished: clicking_horizontal_list_button_displays_horizontal_list(com.example.dogglers.ButtonTests)

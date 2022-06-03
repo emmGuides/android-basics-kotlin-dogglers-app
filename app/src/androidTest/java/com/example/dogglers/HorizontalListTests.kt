@@ -28,7 +28,7 @@ import com.example.dogglers.BaseTest.DrawableMatcher.hasItemCount
 import org.junit.Rule
 import org.junit.Test
 import org.junit.runner.RunWith
-
+// !! THESE TESTS WILL FAIL SINCE CONTENT WAS CHANGED !!
 @RunWith(AndroidJUnit4::class)
 @SmallTest
 class HorizontalListTests : BaseTest() {

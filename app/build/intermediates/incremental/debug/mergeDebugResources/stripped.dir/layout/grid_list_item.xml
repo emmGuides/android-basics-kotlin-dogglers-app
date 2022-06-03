@@ -28,21 +28,55 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-        <!-- TODO: Note that this list item will be used in a grid view which requires a
-                different layout because the list will have two columns of cards.
-                This means that the information within the card must stack the vertically
-                since there is less room in terms of width.-->
+        <ImageView
+            android:id="@+id/dogImage"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_width="wrap_content"
+            android:layout_height="194dp"
+            android:contentDescription="Dog Image"
+            tools:ignore="HardcodedText">
+        </ImageView>
 
-        <!-- TODO: Create an ImageView resource for the image of the dog.
-               The height should be 194dp
-               The width should match the with of the card
-               The scaleType should be set to centerCrop-->
+        <TextView
+            android:id="@+id/dogName"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6"
+            app:layout_constraintTop_toBottomOf="@id/dogImage"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/dogAge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginBottom="16dp"
+            />
 
-        <!-- TODO: Create a TextView for each of the following:
-                The dog's name
-                The dog's age
-                The dog's hobbies-->
+        <TextView
+            android:id="@+id/dogAge"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            app:layout_constraintBottom_toTopOf="@id/dogHobby"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/dogName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            />
 
+
+        <TextView
+            android:id="@+id/dogHobby"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/dogAge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="8dp"
+             />
+        
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </com.google.android.material.card.MaterialCardView>

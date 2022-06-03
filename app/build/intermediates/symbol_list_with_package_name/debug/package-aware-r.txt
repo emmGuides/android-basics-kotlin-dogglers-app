@@ -2464,6 +2464,14 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable dog1
+drawable dog2
+drawable dog3
+drawable dog4
+drawable dog5
+drawable dog6
+drawable dog7
+drawable dog8
 drawable faye
 drawable frankie
 drawable ic_clock_black_24dp
